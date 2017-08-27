@@ -1,0 +1,24 @@
+.container {
+  height: 540px;
+  width: 960px;
+  margin: auto;
+  margin-top: 100px;
+}
+.wrapper {
+  height: 100%;
+  width: 100%;
+  background-color: lightgrey;
+
+}
+.col-xs-1, .col-xs-2, .col-xs-7, .col-xs-3{
+background-color: blue;
+height : 100%;
+
+}
+
+
+
+.row {
+  height: 10%;
+
+}
